@@ -19,8 +19,6 @@ export default function FileTree({
         >
           <img src="./src/assets/document.png" className="icon"></img>
           {node.name}
-
-          
         </button>
       </div>
     );
